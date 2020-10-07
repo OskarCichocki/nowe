@@ -13,4 +13,4 @@ elif (BMI) < 18.5 and (BMI) > 1:
     print('chudziak z cb prosze przytyć natychmiast')
 else:
     print ('no chyba coś źle wpisano, pewnie kurwa metry z przecinkiem zamiast kropki, spróboj ponownie')
-
+print ('siema',(imie),'twoje BMI to',(BMI) ,'NARA, spierdalaj' 'pozdro')
